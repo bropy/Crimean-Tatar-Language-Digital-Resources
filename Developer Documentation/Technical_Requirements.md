@@ -35,12 +35,5 @@ This document outlines the technical requirements for successfully implementing 
 * **Dictionary:**
     - A Crimean Tatar dictionary can be helpful for looking up word meanings and improving your vocabulary.
 
-## Developer Considerations
-
-* **API/SDK Integration:**
-    - If you are a developer integrating Crimean Tatar support into your application, refer to the `API_Reference.md` and `SDK_Reference.md` documents for detailed instructions and code examples.
-* **Testing:**
-    - Thoroughly test your application or system on all supported platforms to ensure correct rendering and functionality of Crimean Tatar text.
-
 ---
 *Please note that these are the minimum requirements. For optimal performance and user experience, it is recommended to use a system that exceeds these specifications.*
